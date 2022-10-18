@@ -1,7 +1,8 @@
 # Class 3
 
 ## Git Notes
-	| Match the term on the left with the description on right | |
+
+| Match the term on the left with the description on right | |
 | ----------- | ----------- |
 | Term | Definition|
 | git status| get status of changes to code |
