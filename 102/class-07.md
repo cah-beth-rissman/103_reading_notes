@@ -1,11 +1,23 @@
 # Class 07 Notes
 
-## All about Functions
+## More about JS
 
-1. [W3 Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
->A JavaScript function is a block of code designed to perform a particular task.
->A JavaScript function is executed when "something" invokes it (calls it).
-2. [MDN Expressions & Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
->At a high level, an expression is a valid unit of code that resolves to a value. There are two types of expressions: those that have side effects (such as assigning values) and those that purely evaluate.
-3. [MDN Function Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
->Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it.
+### Functions
+
++ 'function' keyword followed by the name of the new function
++ Then list the parameters in parentheses and then a block of expressions in curly braces 
++ Functions are declared but only executed once called or invoked
++ Functions can declare a value and assign the value to a name variable
+
+### Control Flow
+
++ *control flow* is the order in which the computer executes statements within a script
++ conditionals and loops change the control flow
++ conditional structure of if...else
+
+### Examples of functions
+
++ A function definition (also called a function declaration, or function statement) consists of the function keyword, followed by:
++ The name of the function.
++ A list of parameters to the function, enclosed in parentheses and separated by commas.
++ The JavaScript statements that define the function, enclosed in curly brackets, { /* … */ }.
